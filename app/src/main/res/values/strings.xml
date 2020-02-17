@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="editText_hint">Введіть назву міста</string>
+    <string name="button_show_weather_label">Показати погоду</string>
+</resources>
